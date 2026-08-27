@@ -4,7 +4,7 @@
     <strong>Senior Full Stack Architect | Angular Lead</strong>
   </p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/tomwhite007/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/tom-white-111a9a34/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/tomwhite007"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
@@ -54,16 +54,17 @@ I am a hands-on technical architect and lead engineer specializing in large-scal
 | Project / Resource | Description |
 | :--- | :--- |
 | **[Rename Angular Component](https://marketplace.visualstudio.com/items?itemName=tomgc.rename-angular-component)** | VSCode Extension with over **56,000+ users**, streamlining component refactoring across large codebases. |
-| **[Angular Sussex Meetup](https://www.meetup.com/angular-sussex/)** | Founder and 5-year host, fostering a community of frontend engineers and sharing enterprise best practices. |
-| **[ngx-ui-output-bus](https://github.com/tomwhite007/ngx-ui-output-bus)** | Open-source Angular library simplifying UI event propagation in deeply nested component trees. |
+| **[Angular Sussex Meetup](https://www.youtube.com/user/007tomwhite)** | Founder and 5-year host, fostering a community of frontend engineers and sharing enterprise best practices. |
+| **[angular-white-label-architecture-demo](https://github.com/tomwhite007/angular-white-label-architecture-demo)** | Demonstration of various combined patterns to maximize reusable code in an Angular white-label monorepo. |
+| **[with-next-from](https://github.com/tomwhite007/with-next-from)** | Custom RxJS operator (`withNextFrom`). Solved the exact same problem as `concatLatestFrom` before the NgRx team invented it. |
 | **RxJS Contributions** | Contributed to the official RxJS documentation, improving clarity for reactive programming concepts. |
 
 ### 📝 Published Articles & Guides
 
-* **Angular lazy-loaded SVG sprite sheets** (Medium, 2024)
-* **Angular Study Guide** (Angular-Nation, 2021)
-* **forRoot your Async Config** (2021)
-* **Enterprise Angular Monorepo Patterns** (2020)
+* **[Angular lazy-loaded SVG sprite sheets](https://github.com/tomwhite007/lazy-sprite-sheet)** (Medium, 2024)
+* **[Angular Study Guide](https://github.com/Angular-Nation/study-guide#readme)** (Angular-Nation, 2021)
+* **[forRoot your Async Config](https://github.com/tomwhite007/forroot-your-async-config)** (2021)
+* **[Enterprise Angular Monorepo Patterns](https://github.com/tomwhite007/enterprise-angular-mono-repo-patterns-example)** (2020)
 
 ---
 
@@ -73,4 +74,4 @@ I am currently operating as a Contract Angular Consultant Developer (recent clie
 
 I am available for **Outside IR35 enterprise architectural advisory and lead engineering contracts** (Remote, UK-based). If you are looking for technical leadership to execute a major replatforming or establish robust architectural governance, let's connect.
 
-📥 **Contact:** Reach out via [LinkedIn](https://www.linkedin.com/in/tomwhite007/) or check my repositories for more details.
+📥 **Contact:** Reach out via [LinkedIn](https://www.linkedin.com/in/tom-white-111a9a34/) or check my repositories for more details.
