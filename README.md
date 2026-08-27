@@ -23,9 +23,11 @@
 
 ---
 
-### 🚀 Executive Summary
+### 🚀 Overview
 
-I am a hands-on technical architect and lead engineer specializing in large-scale enterprise replatforming, monorepos, and microfrontends. With over 27 years of engineering experience and a decade focused exclusively on enterprise Angular, I drive rapid, scalable delivery utilizing **Architecture-Driven Development (ADD)**. By authoring custom AI harnesses, agentic context documents, and strict rulesets, I eliminate architectural drift and accelerate feature shipping for global enterprises.
+I am a hands-on technical architect and lead developer with over 27 years of software engineering experience and a decade focused on enterprise Angular. I specialise in large-scale replatforming, Nx monorepos, and microfrontends.
+
+My core delivery focuses on **Architecture-Driven Development (ADD)**—combining architectural patterns with custom AI harnesses, agentic context rulesets, and automated testing to eliminate drift and ship clean code rapidly.
 
 ---
 
@@ -33,23 +35,23 @@ I am a hands-on technical architect and lead engineer specializing in large-scal
 
 #### **Enterprise Frontend**
 
-> **Angular 17–22 | Nx Monorepos | NgRx SignalStore | SSR | Microfrontends**
-> Designing highly cohesive, loosely coupled frontend architectures optimized for performance, scalability, and long-term maintainability.
+> **Angular 17–22 | Nx Monorepos | NgRx SignalStore | SSR | Microfrontends**  
+> Building scalable web applications with strict module boundaries, high performance, and modern reactive patterns.
 
 #### **Full Stack & Cloud**
 
-> **Node.js | C#/.NET | Java | REST APIs | AWS & Azure Serverless**
-> Bridging the gap between rich client applications and robust, scalable backend services utilizing modern serverless workflows and distributed architectures.
+> **Node.js | C#/.NET | Java | REST APIs | AWS & Azure**  
+> Delivering robust backend services, serverless integrations, microservices, and cross-platform native bridges.
 
 #### **Quality & Automation**
 
-> **Vitest | Playwright | Jest | Cypress | CI/CD**
-> Instituting rigorous testing paradigms, CI/CD pipelines, and strict linting/boundary enforcement to guarantee unbreakable deployments.
+> **Vitest | Playwright | Jest | Cypress | CI/CD**  
+> Enforcing strict code quality, boundary linting, visual snapshotting, and reliable automated test suites.
 
 #### **Architecture-Driven Development (ADD)**
 
-> **AI Harnesses | Agentic Rulesets | Context Governance**
-> Leveraging the latest in AI-assisted development by standardizing architectural intent into machine-readable rules, ensuring code generation remains strictly aligned with enterprise standards.
+> **AI Harnesses | Agentic Rulesets | Context Governance**  
+> Standardizing architectural patterns into machine-readable context rules to govern AI-assisted engineering against enterprise standards.
 
 ---
 
@@ -57,9 +59,9 @@ I am a hands-on technical architect and lead engineer specializing in large-scal
 
 | Project / Resource                                                                                                | Description                                                                                                                  |
 | :---------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
-| **[Rename Angular Component](https://github.com/tomwhite007/rename-angular-component)**                           | VSCode Extension with over **56,000+ users**, streamlining component refactoring across large codebases.                     |
-| **[Angular Sussex Meetup](https://www.youtube.com/user/007tomwhite)**                                             | Founder and 5-year host, fostering a community of frontend engineers and sharing enterprise best practices.                  |
-| **[angular-white-label-architecture-demo](https://github.com/tomwhite007/angular-white-label-architecture-demo)** | Demonstration of various combined patterns to maximize reusable code in an Angular white-label monorepo.                     |
+| **[Rename Angular Component](https://github.com/tomwhite007/rename-angular-component)**                           | VSCode Extension with over **56,000+ users**, streamlining component refactoring across large workspaces.                    |
+| **[Angular Sussex Meetup](https://www.youtube.com/user/007tomwhite)**                                             | Founder and 5-year host, sharing enterprise Angular best practices and mentoring developers.                                 |
+| **[angular-white-label-architecture-demo](https://github.com/tomwhite007/angular-white-label-architecture-demo)** | Architectural patterns for maximizing reusable code and configuration across white-label monorepos.                          |
 | **[with-next-from](https://github.com/tomwhite007/with-next-from)**                                               | Custom RxJS operator (`withNextFrom`). Solved the exact same problem as `concatLatestFrom` before the NgRx team invented it. |
 | **RxJS Contributions**                                                                                            | Contributed to the official RxJS documentation, improving clarity for reactive programming concepts.                         |
 
@@ -74,8 +76,9 @@ I am a hands-on technical architect and lead engineer specializing in large-scal
 
 ### 🤝 Engagement & Availability
 
-I am currently operating as a Contract Angular Consultant Developer (recent clients include _Chambers & Partners, ISB Global, Turner & Townsend, NatWest, Nessy Learning, Domestic & General, EDF Energy_).
+Currently operating as a Contract Angular Consultant Developer (recent client history includes _Chambers & Partners, ISB Global, Turner & Townsend, NatWest, Nessy Learning, Domestic & General, EDF Energy_).
 
-I am available for **Outside IR35 enterprise architectural advisory and lead engineering contracts** (Remote, UK-based). If you are looking for technical leadership to execute a major replatforming or establish robust architectural governance, let's connect.
+- **Contract Status:** Available for **Outside IR35 contracts** (Lead Architect / Principal Angular Consultant).
+- **Location:** UK-based (Remote / Hybrid across the West Midlands, or happy to travel into London or the South West for team workshops and milestone planning).
 
-📥 **Contact:** Reach out via [LinkedIn](https://www.linkedin.com/in/tom-white-111a9a34/) or check my repositories for more details.
+* **Direct Contact:** Connect via [LinkedIn](https://www.linkedin.com/in/tom-white-111a9a34/)
