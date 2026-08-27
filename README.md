@@ -65,7 +65,7 @@ I am a hands-on technical architect and lead engineer specializing in large-scal
 
 ### 📝 Published Articles & Guides
 
-- **[Angular lazy-loaded SVG sprite sheets](https://github.com/tomwhite007/lazy-sprite-sheet)** (Medium, 2024)
+- **[Angular lazy-loaded SVG sprite sheets](https://medium.com/@tomwhite007/angular-lazy-loaded-svg-sprite-sheets-e791e429659e)** (Medium, 2024)
 - **[Angular Study Guide](https://github.com/Angular-Nation/study-guide#readme)** (Angular-Nation, 2021)
 - **[forRoot your Async Config](https://github.com/tomwhite007/forroot-your-async-config)** (2021)
 - **[Enterprise Angular Monorepo Patterns](https://github.com/tomwhite007/enterprise-angular-mono-repo-patterns-example)** (2020)
