@@ -32,18 +32,22 @@ I am a hands-on technical architect and lead engineer specializing in large-scal
 ### 🏗️ Core Architectural Pillars
 
 #### **Enterprise Frontend**
+
 > **Angular 17–22 | Nx Monorepos | NgRx SignalStore | SSR | Microfrontends**
-> Designing highly cohesive, loosely coupled frontend architectures optimized for performance, scalability, and long-term maintainability. 
+> Designing highly cohesive, loosely coupled frontend architectures optimized for performance, scalability, and long-term maintainability.
 
 #### **Full Stack & Cloud**
+
 > **Node.js | C#/.NET | Java | REST APIs | AWS & Azure Serverless**
 > Bridging the gap between rich client applications and robust, scalable backend services utilizing modern serverless workflows and distributed architectures.
 
 #### **Quality & Automation**
+
 > **Vitest | Playwright | Jest | Cypress | CI/CD**
 > Instituting rigorous testing paradigms, CI/CD pipelines, and strict linting/boundary enforcement to guarantee unbreakable deployments.
 
 #### **Architecture-Driven Development (ADD)**
+
 > **AI Harnesses | Agentic Rulesets | Context Governance**
 > Leveraging the latest in AI-assisted development by standardizing architectural intent into machine-readable rules, ensuring code generation remains strictly aligned with enterprise standards.
 
@@ -51,26 +55,26 @@ I am a hands-on technical architect and lead engineer specializing in large-scal
 
 ### 📦 Flagship Projects & Open Source
 
-| Project / Resource | Description |
-| :--- | :--- |
-| **[Rename Angular Component](https://marketplace.visualstudio.com/items?itemName=tomgc.rename-angular-component)** | VSCode Extension with over **56,000+ users**, streamlining component refactoring across large codebases. |
-| **[Angular Sussex Meetup](https://www.youtube.com/user/007tomwhite)** | Founder and 5-year host, fostering a community of frontend engineers and sharing enterprise best practices. |
-| **[angular-white-label-architecture-demo](https://github.com/tomwhite007/angular-white-label-architecture-demo)** | Demonstration of various combined patterns to maximize reusable code in an Angular white-label monorepo. |
-| **[with-next-from](https://github.com/tomwhite007/with-next-from)** | Custom RxJS operator (`withNextFrom`). Solved the exact same problem as `concatLatestFrom` before the NgRx team invented it. |
-| **RxJS Contributions** | Contributed to the official RxJS documentation, improving clarity for reactive programming concepts. |
+| Project / Resource                                                                                                | Description                                                                                                                  |
+| :---------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| **[Rename Angular Component](https://github.com/tomwhite007/rename-angular-component)**                           | VSCode Extension with over **56,000+ users**, streamlining component refactoring across large codebases.                     |
+| **[Angular Sussex Meetup](https://www.youtube.com/user/007tomwhite)**                                             | Founder and 5-year host, fostering a community of frontend engineers and sharing enterprise best practices.                  |
+| **[angular-white-label-architecture-demo](https://github.com/tomwhite007/angular-white-label-architecture-demo)** | Demonstration of various combined patterns to maximize reusable code in an Angular white-label monorepo.                     |
+| **[with-next-from](https://github.com/tomwhite007/with-next-from)**                                               | Custom RxJS operator (`withNextFrom`). Solved the exact same problem as `concatLatestFrom` before the NgRx team invented it. |
+| **RxJS Contributions**                                                                                            | Contributed to the official RxJS documentation, improving clarity for reactive programming concepts.                         |
 
 ### 📝 Published Articles & Guides
 
-* **[Angular lazy-loaded SVG sprite sheets](https://github.com/tomwhite007/lazy-sprite-sheet)** (Medium, 2024)
-* **[Angular Study Guide](https://github.com/Angular-Nation/study-guide#readme)** (Angular-Nation, 2021)
-* **[forRoot your Async Config](https://github.com/tomwhite007/forroot-your-async-config)** (2021)
-* **[Enterprise Angular Monorepo Patterns](https://github.com/tomwhite007/enterprise-angular-mono-repo-patterns-example)** (2020)
+- **[Angular lazy-loaded SVG sprite sheets](https://github.com/tomwhite007/lazy-sprite-sheet)** (Medium, 2024)
+- **[Angular Study Guide](https://github.com/Angular-Nation/study-guide#readme)** (Angular-Nation, 2021)
+- **[forRoot your Async Config](https://github.com/tomwhite007/forroot-your-async-config)** (2021)
+- **[Enterprise Angular Monorepo Patterns](https://github.com/tomwhite007/enterprise-angular-mono-repo-patterns-example)** (2020)
 
 ---
 
 ### 🤝 Engagement & Availability
 
-I am currently operating as a Contract Angular Consultant Developer (recent clients include *Chambers & Partners, ISB Global, Turner & Townsend, NatWest, Nessy Learning, Domestic & General, EDF Energy*).
+I am currently operating as a Contract Angular Consultant Developer (recent clients include _Chambers & Partners, ISB Global, Turner & Townsend, NatWest, Nessy Learning, Domestic & General, EDF Energy_).
 
 I am available for **Outside IR35 enterprise architectural advisory and lead engineering contracts** (Remote, UK-based). If you are looking for technical leadership to execute a major replatforming or establish robust architectural governance, let's connect.
 
