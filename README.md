@@ -78,7 +78,7 @@ My core delivery focuses on **Architecture-Driven Development (ADD)**—combinin
 
 Currently operating as a Contract Angular Consultant Developer (recent client history includes _Chambers & Partners, ISB Global, Turner & Townsend, NatWest, Nessy Learning, Domestic & General, EDF Energy_).
 
-- **Contract Status:** Available for **Outside IR35 contracts** (Lead Architect / Principal Angular Consultant).
+- **Contract Status:** Available for **Outside IR35 contracts** (Senior Angular Lead / Full Stack Consultant).
 - **Location:** UK-based (Remote / Hybrid across the West Midlands, or happy to travel into London or the South West for team workshops and milestone planning).
 
 * **Direct Contact:** Connect via [LinkedIn](https://www.linkedin.com/in/tom-white-111a9a34/)
