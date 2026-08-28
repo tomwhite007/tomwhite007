@@ -79,15 +79,13 @@ My core delivery focuses on **Architecture-Driven Development (ADD)**—combinin
 Currently operating as a Contract Angular Consultant Developer. Recent clients include:
 
 <p align="center">
-  <img src="https://icon.horse/icon/chambers.com" alt="Chambers & Partners" width="32" height="32" align="absmiddle" /> <b>Chambers & Partners</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://icon.horse/icon/isb-global.com" alt="ISB Global" width="32" height="32" align="absmiddle" /> <b>ISB Global</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://icon.horse/icon/turnerandtownsend.com" alt="Turner & Townsend" width="32" height="32" align="absmiddle" /> <b>Turner & Townsend</b>
-</p>
-<p align="center">
-  <img src="https://icon.horse/icon/natwest.com" alt="NatWest" width="32" height="32" align="absmiddle" /> <b>NatWest</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://icon.horse/icon/nessy.com" alt="Nessy Learning" width="32" height="32" align="absmiddle" /> <b>Nessy Learning</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://icon.horse/icon/domesticandgeneral.com" alt="Domestic & General" width="32" height="32" align="absmiddle" /> <b>Domestic & General</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://icon.horse/icon/edfenergy.com" alt="EDF Energy" width="32" height="32" align="absmiddle" /> <b>EDF Energy</b>
+  <a href="https://chambers.com"><img src="https://icon.horse/icon/chambers.com" alt="Chambers & Partners" title="Chambers & Partners" width="48" height="48" hspace="10" /></a>
+  <a href="https://isb-global.com"><img src="https://icon.horse/icon/isb-global.com" alt="ISB Global" title="ISB Global" width="48" height="48" hspace="10" /></a>
+  <a href="https://turnerandtownsend.com"><img src="https://icon.horse/icon/turnerandtownsend.com" alt="Turner & Townsend" title="Turner & Townsend" width="48" height="48" hspace="10" /></a>
+  <a href="https://natwest.com"><img src="https://icon.horse/icon/natwest.com" alt="NatWest" title="NatWest" width="48" height="48" hspace="10" /></a>
+  <a href="https://nessy.com"><img src="https://icon.horse/icon/nessy.com" alt="Nessy Learning" title="Nessy Learning" width="48" height="48" hspace="10" /></a>
+  <a href="https://domesticandgeneral.com"><img src="https://icon.horse/icon/domesticandgeneral.com" alt="Domestic & General" title="Domestic & General" width="48" height="48" hspace="10" /></a>
+  <a href="https://edfenergy.com"><img src="https://icon.horse/icon/edfenergy.com" alt="EDF Energy" title="EDF Energy" width="48" height="48" hspace="10" /></a>
 </p>
 
 - **Contract Status:** Available for **Outside IR35 contracts** (Senior Angular Lead / Full Stack Consultant).
