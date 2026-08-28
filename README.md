@@ -78,40 +78,15 @@ My core delivery focuses on **Architecture-Driven Development (ADD)**—combinin
 
 Currently operating as a Contract Angular Consultant Developer. Recent clients include:
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="14%">
-        <img src="https://icon.horse/icon/chambers.com" alt="Chambers & Partners" height="50" /><br />
-        <sub><b>Chambers & Partners</b></sub>
-      </td>
-      <td align="center" width="14%">
-        <img src="https://icon.horse/icon/isb-global.com" alt="ISB Global" height="50" /><br />
-        <sub><b>ISB Global</b></sub>
-      </td>
-      <td align="center" width="14%">
-        <img src="https://icon.horse/icon/turnerandtownsend.com" alt="Turner & Townsend" height="50" /><br />
-        <sub><b>Turner & Townsend</b></sub>
-      </td>
-      <td align="center" width="14%">
-        <img src="https://icon.horse/icon/natwest.com" alt="NatWest" height="50" /><br />
-        <sub><b>NatWest</b></sub>
-      </td>
-      <td align="center" width="14%">
-        <img src="https://icon.horse/icon/nessy.com" alt="Nessy Learning" height="50" /><br />
-        <sub><b>Nessy Learning</b></sub>
-      </td>
-      <td align="center" width="14%">
-        <img src="https://icon.horse/icon/domesticandgeneral.com" alt="Domestic & General" height="50" /><br />
-        <sub><b>Domestic & General</b></sub>
-      </td>
-      <td align="center" width="14%">
-        <img src="https://icon.horse/icon/edfenergy.com" alt="EDF Energy" height="50" /><br />
-        <sub><b>EDF Energy</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://icon.horse/icon/chambers.com" alt="Chambers & Partners" width="32" height="32" align="absmiddle" /> <b>Chambers & Partners</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://icon.horse/icon/isb-global.com" alt="ISB Global" width="32" height="32" align="absmiddle" /> <b>ISB Global</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://icon.horse/icon/turnerandtownsend.com" alt="Turner & Townsend" width="32" height="32" align="absmiddle" /> <b>Turner & Townsend</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://icon.horse/icon/natwest.com" alt="NatWest" width="32" height="32" align="absmiddle" /> <b>NatWest</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://icon.horse/icon/nessy.com" alt="Nessy Learning" width="32" height="32" align="absmiddle" /> <b>Nessy Learning</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://icon.horse/icon/domesticandgeneral.com" alt="Domestic & General" width="32" height="32" align="absmiddle" /> <b>Domestic & General</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://icon.horse/icon/edfenergy.com" alt="EDF Energy" width="32" height="32" align="absmiddle" /> <b>EDF Energy</b>
+</p>
 
 - **Contract Status:** Available for **Outside IR35 contracts** (Senior Angular Lead / Full Stack Consultant).
 - **Location:** UK-based (Remote / Hybrid across the West Midlands, or happy to travel into London or the South West for team workshops and milestone planning).
