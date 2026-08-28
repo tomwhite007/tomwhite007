@@ -35,7 +35,7 @@ My core delivery focuses on **Architecture-Driven Development (ADD)**—combinin
 
 #### **Enterprise Frontend**
 
-> **Angular 17–22 | Nx Monorepos | NgRx SignalStore | SSR | Microfrontends**  
+> **Angular | Nx Monorepos | NgRx SignalStore | SSR | Microfrontends**  
 > Building scalable web applications with strict module boundaries, high performance, and modern reactive patterns.
 
 #### **Full Stack & Cloud**
@@ -51,7 +51,7 @@ My core delivery focuses on **Architecture-Driven Development (ADD)**—combinin
 #### **Architecture-Driven Development (ADD)**
 
 > **AI Harnesses | Agentic Rulesets | Context Governance**  
-> Standardizing architectural patterns into machine-readable context rules to govern AI-assisted engineering against enterprise standards.
+> Standardising architectural patterns into machine-readable context rules to govern AI-assisted engineering against enterprise standards.
 
 ---
 
