@@ -81,7 +81,9 @@ Currently operating as a Contract Angular Consultant Developer. Recent clients i
 <p align="center">
   <img src="https://icon.horse/icon/chambers.com" alt="Chambers & Partners" width="32" height="32" align="absmiddle" /> <b>Chambers & Partners</b> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://icon.horse/icon/isb-global.com" alt="ISB Global" width="32" height="32" align="absmiddle" /> <b>ISB Global</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://icon.horse/icon/turnerandtownsend.com" alt="Turner & Townsend" width="32" height="32" align="absmiddle" /> <b>Turner & Townsend</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://icon.horse/icon/turnerandtownsend.com" alt="Turner & Townsend" width="32" height="32" align="absmiddle" /> <b>Turner & Townsend</b>
+</p>
+<p align="center">
   <img src="https://icon.horse/icon/natwest.com" alt="NatWest" width="32" height="32" align="absmiddle" /> <b>NatWest</b> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://icon.horse/icon/nessy.com" alt="Nessy Learning" width="32" height="32" align="absmiddle" /> <b>Nessy Learning</b> &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://icon.horse/icon/domesticandgeneral.com" alt="Domestic & General" width="32" height="32" align="absmiddle" /> <b>Domestic & General</b> &nbsp;&nbsp;&nbsp;&nbsp;
