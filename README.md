@@ -29,29 +29,33 @@
 
 ### 🚀 Overview
 
-I am a hands-on **Senior Full Stack Architect and Technical Lead** with over 27 years of software engineering experience. My expertise spans modern frontend frameworks (**Next.js 16 / React 19**, **Angular 21**), robust cloud backends (**NestJS**, **Node.js**, **.NET**), and cloud-native infrastructure (**AWS ECS Fargate Graviton**, **Terraform IaC**).
+I'm a hands-on **Senior Full Stack Architect & Technical Lead** with 27+ years of engineering experience. I love building high-performance web apps, scaling enterprise monorepos, and architecting cloud-native backends on AWS.
 
-I specialise in leading greenfield platform builds, decomposing monolithic codebases into modular microfrontends, and orchestrating enterprise Nx monorepos.
+Lately, I've been focused on **Next.js 16 / React 19**, **Angular**, **NestJS**, and **Architecture-Driven Development (ADD)**—creating local AI agentic harnesses that help teams ship clean, well-tested code fast without architectural drift.
 
-My core engineering methodology centers on **Architecture-Driven Development (ADD)**—combining domain architectural patterns with AI agentic developer harnesses, context rulesets, and strict automated testing to eliminate architectural drift and ship production-ready code predictably.
+When I'm not consulting Outside IR35 for enterprise clients, I'm usually building open-source developer tooling like **[CloudPulse](https://cloudpulse-ops.com)**, hosting tech meetups, or sharing frontend patterns.
 
 ---
 
 ### 🏗️ Core Architectural Pillars
 
 #### **Modern Fullstack & Frontend Engineering**
+
 > **Next.js 16 (App Router, Server Actions) | React 19 | Angular (v2–21) | TypeScript | Tailwind CSS**  
 > Building high-performance, accessible web applications with SSR/SSG, modern state management (Zustand, TanStack Query, NgRx SignalStore, RxJS), WebSockets, and OAuth 2.0 PKCE authentication.
 
 #### **Backend, APIs & Cloud Native Infrastructure**
+
 > **NestJS | Node.js | C#/.NET | Java | REST APIs & BFF Architecture | AWS & Terraform IaC**  
 > Designing resilient backend services and cloud infrastructure across AWS (ECS Fargate ARM64 Graviton, VPC, ALB, SSM, ECR, IAM, Lambda, DynamoDB) configured via modular Terraform IaC and GitHub Actions CI/CD pipelines.
 
 #### **Monorepo Governance & ADD (Architecture-Driven Development)**
+
 > **Nx Monorepos | AI Agent Harnesses | Agentic Rulesets | Boundary Governance**  
 > Enterprise monorepo orchestration enforcing strict domain boundaries, affected build caching, and local AI agentic developer harnesses that maintain 100% test suite pass rates and zero drift.
 
 #### **Quality Verification & Testing**
+
 > **Vitest | Playwright | Jest | Cypress | WCAG 2.1 AA Accessibility**  
 > Comprehensive testing strategies spanning unit, integration, E2E, visual snapshot testing, and accessibility auditing with axe-core.
 
